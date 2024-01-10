@@ -1,2 +1,2 @@
 # Jay
-Likes making scripts for fun and free
+Proxy websites ive helped make along with some random files
